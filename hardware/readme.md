@@ -1,0 +1,1 @@
+based on VUSB schematic with a small design easy to wear it on your key chain 
